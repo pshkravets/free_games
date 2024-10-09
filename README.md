@@ -10,23 +10,23 @@ are avaliable in Epic Games currently.
 To get your api key you should register input your email
 and password 
 
-![Signup image](free_games_email/media/readme_img/signup.png)
+![Signup image](readme_img/signup.png)
 
 ### 2. Get your api key
 You should input email and password to authorize yourself and get your api key
 
-![get api key image](free_games_email/media/readme_img/api_key.png)
+![get api key image](readme_img/api_key.png)
 
 ### 3. Enable/disable notifications
 You should enable notifications so emails were send to you. You should input your 
 api key in authorization.
 
-![enable_notifications image](free_games_email/media/readme_img/enable_notifications.png)
+![enable_notifications image](readme_img/enable_notifications.png)
 
 ### 4. Example of email: 
 It's example of email 
 
-![email image](free_games_email/media/readme_img/email.png)
+![email image](readme_img/email.png)
 
 
 ## Technical details
